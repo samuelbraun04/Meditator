@@ -1,0 +1,10 @@
+dawdreamer==0.6.10
+librosa==0.7.2
+mingus==0.6.1
+moviepy==2.0.0.dev2_
+py_midicsv==4.0.0
+pydub==0.25.1
+scipy==1.7.3
+selenium==4.8.3
+undetected_chromedriver==3.2.1
+webdriver_manager==3.7.0
