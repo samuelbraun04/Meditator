@@ -2,7 +2,7 @@
 
 Meditator is a Python program that generates meditation music videos. 
 
-## Demos
+## Demo
 
 [![Demo](https://www.shareicon.net/download/2015/09/08/97834_video.ico)](https://youtu.be/_EdpOhD3ORw)
 
